@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Full+Stack+%2B+Web3+%2B+AI+Developer+%F0%9F%94%A5;Building+dApps%2C+Agents+%26+Production+Systems;Code+on-chain.+Think+off-chain." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%94%A5;AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@ const shanmukh: Developer = {
   alias       : "0xSHSH",
   name        : "Shanmukh Sharma",
   location    : "/root 🌍",
-  roles       : ["Full Stack Dev", "Web3 Engineer", "AI Agent Builder"],
+  roles       : ["Full Stack Dev", "Web3 Engineer", "AI Enthusiast"],
 
   stack: {
     frontend  : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
@@ -106,13 +106,13 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af" width="60%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af" width="60%" />
 </div>
 
 ---

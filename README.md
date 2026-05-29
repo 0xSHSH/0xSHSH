@@ -106,13 +106,13 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&ring_color=7c3aed" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af" width="49%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=8" />
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3" width="38%" />
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af" width="60%" />
 </div>
 
 ---
@@ -159,7 +159,7 @@ const shanmukh: Developer = {
 
 <br/><br/>
 
-> *"The best code is on-chain and unstoppable."* — 0xSHSH
+*I don't wait for the perfect moment — I ship, learn, and iterate.*
 
 </div>
 

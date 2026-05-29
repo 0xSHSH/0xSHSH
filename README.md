@@ -106,31 +106,7 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-![0xSHSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=0xSHSH&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSHSH&bg_color=0d0221&color=c084fc&line=7c3aed&point=f59e0b&area=true&area_color=2d1b69&hide_border=true)
+![streak](https://streak-stats.demolab.com?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af)
 
 </div>
 

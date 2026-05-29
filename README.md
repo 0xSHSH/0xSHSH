@@ -106,13 +106,12 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=8&cache_seconds=1800" />
+![0xSHSH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xSHSH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xSHSH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c084fc&text_color=e2d9f3&langs_count=8)
 
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af" width="60%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=0xSHSH&theme=tokyonight&hide_border=true&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=9ca3af)
+
 </div>
 
 ---
@@ -121,7 +120,7 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xSHSH&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/0xSHSH)
+![Trophies](https://github-profile-trophy.vercel.app/?username=0xSHSH&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -131,7 +130,7 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xSHSH&bg_color=0d0221&color=c084fc&line=7c3aed&point=f59e0b&area=true&area_color=2d1b69&hide_border=true&radius=8" width="96%" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xSHSH&bg_color=0d0221&color=c084fc&line=7c3aed&point=f59e0b&area=true&area_color=2d1b69&hide_border=true)
 
 </div>
 
@@ -141,21 +140,13 @@ const shanmukh: Developer = {
 
 <div align="center">
 
-<a href="https://x.com/ShnmukhSharma7">
-  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ShnmukhSharma7)
 &nbsp;
-<a href="https://www.linkedin.com/in/shanmukh-sharma">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukh-sharma)
 &nbsp;
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 &nbsp;
-<a href="https://github.com/0xSHSH">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xSHSH)
 
 <br/><br/>
 
